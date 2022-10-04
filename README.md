@@ -1,4 +1,4 @@
-### Olá! Meu nom é Davi Ferreira 👋
+### Olá! Meu nome é Davi Ferreira 👋
 
 - 🚀 Atualmente estou estudando HTML, CSS, Python e JavaScript 
 
