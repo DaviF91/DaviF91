@@ -2,7 +2,7 @@
 
 - 🚀 Atualmente estou estudando HTML, CSS, Python, JavaScript e Vue.js
 
-<div align="center">
+<div >
   <a href="https://github.com/DaviF91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviF91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviF91&layout=compact&langs_count=7&theme=dracula"/>
